@@ -3,6 +3,7 @@
 	<requires>
 		<import addon="xbmc.python" version="3.0.0"/>
 		<import addon="script.module.pil" version="1.1.7"/>
+		<import addon="script.module.kodi-six" />
 	</requires>
 	<extension point="xbmc.python.library" library="default.py" />
 	<extension point="xbmc.addon.metadata">
